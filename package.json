@@ -1,0 +1,22 @@
+{
+  "name": "algos_in_javascript",
+  "version": "1.0.0",
+  "description": "algorithms in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdazrat/algos_in_javascript.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "venu dasarathy <mail@vdasarat.xyz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdazrat/algos_in_javascript/issues"
+  },
+  "homepage": "https://github.com/vdazrat/algos_in_javascript#readme"
+}
